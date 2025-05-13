@@ -1,0 +1,152 @@
+<svg width="816" height="146" viewBox="0 0 816 146" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="168" cy="48" r="48" fill="#2E2E2E"/>
+<circle cx="648" cy="48" r="46.5" fill="#F0F0F0" stroke="#2E2E2E" stroke-width="3"/>
+<circle cx="408" cy="48" r="48" fill="#919191"/>
+<mask id="mask0_1080_1324" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="480" y="0" width="96" height="96">
+<circle cx="528" cy="48" r="48" fill="#2378C3"/>
+</mask>
+<g mask="url(#mask0_1080_1324)">
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 563.665 -12)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 527.889 -12)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 653.104 -12)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 545.776 -12)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 670.992 -12)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 581.552 -12)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 688.879 -12)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 599.44 -12)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 706.768 -12)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 617.328 -12)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-0.766044 0.642788 -0.0543978 -0.998519 635.216 -12)" stroke="#2E2E2E" stroke-width="3"/>
+</g>
+<mask id="mask1_1080_1324" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="240" y="0" width="96" height="96">
+<circle cx="288" cy="48" r="48" fill="#2378C3"/>
+</mask>
+<g mask="url(#mask1_1080_1324)">
+<line y1="-0.5" x2="180" y2="-0.5" transform="matrix(0 -1 0.799876 0.600165 242.72 135.85)" stroke="#2E2E2E"/>
+<line y1="-0.5" x2="180" y2="-0.5" transform="matrix(0 -1 0.799876 0.600165 302.161 135.85)" stroke="#2E2E2E"/>
+<line y1="-0.5" x2="180" y2="-0.5" transform="matrix(0 -1 0.799876 0.600165 314.048 135.85)" stroke="#2E2E2E"/>
+<line y1="-0.5" x2="180" y2="-0.5" transform="matrix(0 -1 0.799876 0.600165 254.607 135.85)" stroke="#2E2E2E"/>
+<line y1="-0.5" x2="180" y2="-0.5" transform="matrix(0 -1 0.799876 0.600165 325.937 135.85)" stroke="#2E2E2E"/>
+<line y1="-0.5" x2="180" y2="-0.5" transform="matrix(0 -1 0.799876 0.600165 266.496 135.85)" stroke="#2E2E2E"/>
+<line y1="-0.5" x2="180" y2="-0.5" transform="matrix(0 -1 0.799876 0.600165 278.385 135.85)" stroke="#2E2E2E"/>
+<line y1="-0.5" x2="180" y2="-0.5" transform="matrix(0 -1 0.799876 0.600165 290.272 135.85)" stroke="#2E2E2E"/>
+</g>
+<mask id="mask2_1080_1324" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="240" y="0" width="96" height="96">
+<circle cx="288" cy="48" r="48" transform="rotate(-90 288 48)" fill="#2378C3"/>
+</mask>
+<g mask="url(#mask2_1080_1324)">
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-1 4.37114e-08 0.600165 -0.799876 375.851 93.2812)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-1 4.37114e-08 0.600165 -0.799876 375.851 33.8438)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-1 4.37114e-08 0.600165 -0.799876 375.851 21.9551)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-1 4.37114e-08 0.600165 -0.799876 375.851 81.3926)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-1 4.37114e-08 0.600165 -0.799876 375.851 10.0664)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-1 4.37114e-08 0.600165 -0.799876 375.851 69.5039)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-1 4.37114e-08 0.600165 -0.799876 375.851 -1.82227)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-1 4.37114e-08 0.600165 -0.799876 375.851 57.6211)" stroke="#2E2E2E" stroke-width="3"/>
+<line y1="-1.5" x2="180" y2="-1.5" transform="matrix(-1 4.37114e-08 0.600165 -0.799876 375.851 45.7324)" stroke="#2E2E2E" stroke-width="3"/>
+</g>
+<mask id="mask3_1080_1324" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="720" y="0" width="96" height="96">
+<circle cx="768" cy="48" r="48" fill="#919191"/>
+</mask>
+<g mask="url(#mask3_1080_1324)">
+<circle cx="732" cy="6" r="3" fill="#2E2E2E"/>
+<circle cx="732" cy="21" r="3" fill="#2E2E2E"/>
+<circle cx="732" cy="36" r="3" fill="#2E2E2E"/>
+<circle cx="732" cy="51" r="3" fill="#2E2E2E"/>
+<circle cx="732" cy="66" r="3" fill="#2E2E2E"/>
+<circle cx="732" cy="81" r="3" fill="#2E2E2E"/>
+<circle cx="732" cy="96" r="3" fill="#2E2E2E"/>
+<circle cx="747" cy="6" r="3" fill="#2E2E2E"/>
+<circle cx="747" cy="21" r="3" fill="#2E2E2E"/>
+<circle cx="747" cy="36" r="3" fill="#2E2E2E"/>
+<circle cx="747" cy="51" r="3" fill="#2E2E2E"/>
+<circle cx="747" cy="66" r="3" fill="#2E2E2E"/>
+<circle cx="747" cy="81" r="3" fill="#2E2E2E"/>
+<circle cx="747" cy="96" r="3" fill="#2E2E2E"/>
+<circle cx="762" cy="6" r="3" fill="#2E2E2E"/>
+<circle cx="762" cy="21" r="3" fill="#2E2E2E"/>
+<circle cx="762" cy="36" r="3" fill="#2E2E2E"/>
+<circle cx="762" cy="51" r="3" fill="#2E2E2E"/>
+<circle cx="762" cy="66" r="3" fill="#2E2E2E"/>
+<circle cx="762" cy="81" r="3" fill="#2E2E2E"/>
+<circle cx="762" cy="96" r="3" fill="#2E2E2E"/>
+<circle cx="777" cy="6" r="3" fill="#2E2E2E"/>
+<circle cx="777" cy="21" r="3" fill="#2E2E2E"/>
+<circle cx="777" cy="36" r="3" fill="#2E2E2E"/>
+<circle cx="777" cy="51" r="3" fill="#2E2E2E"/>
+<circle cx="777" cy="66" r="3" fill="#2E2E2E"/>
+<circle cx="777" cy="81" r="3" fill="#2E2E2E"/>
+<circle cx="777" cy="96" r="3" fill="#2E2E2E"/>
+<circle cx="792" cy="6" r="3" fill="#2E2E2E"/>
+<circle cx="792" cy="21" r="3" fill="#2E2E2E"/>
+<circle cx="792" cy="36" r="3" fill="#2E2E2E"/>
+<circle cx="792" cy="51" r="3" fill="#2E2E2E"/>
+<circle cx="792" cy="66" r="3" fill="#2E2E2E"/>
+<circle cx="792" cy="81" r="3" fill="#2E2E2E"/>
+<circle cx="792" cy="96" r="3" fill="#2E2E2E"/>
+<circle cx="807" cy="6" r="3" fill="#2E2E2E"/>
+<circle cx="807" cy="21" r="3" fill="#2E2E2E"/>
+<circle cx="807" cy="36" r="3" fill="#2E2E2E"/>
+<circle cx="807" cy="51" r="3" fill="#2E2E2E"/>
+<circle cx="807" cy="66" r="3" fill="#2E2E2E"/>
+<circle cx="807" cy="81" r="3" fill="#2E2E2E"/>
+<circle cx="807" cy="96" r="3" fill="#2E2E2E"/>
+</g>
+<mask id="mask4_1080_1324" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="96" height="96">
+<circle cx="48" cy="48" r="48" fill="#919191"/>
+</mask>
+<g mask="url(#mask4_1080_1324)">
+<circle cy="9" r="6" fill="#2E2E2E"/>
+<circle cy="24" r="6" fill="#2E2E2E"/>
+<circle cy="39" r="6" fill="#2E2E2E"/>
+<circle cy="54" r="6" fill="#2E2E2E"/>
+<circle cy="69" r="6" fill="#2E2E2E"/>
+<circle cy="84" r="6" fill="#2E2E2E"/>
+<circle cy="99" r="6" fill="#2E2E2E"/>
+<circle cx="15" cy="9" r="6" fill="#2E2E2E"/>
+<circle cx="15" cy="24" r="6" fill="#2E2E2E"/>
+<circle cx="15" cy="39" r="6" fill="#2E2E2E"/>
+<circle cx="15" cy="54" r="6" fill="#2E2E2E"/>
+<circle cx="15" cy="69" r="6" fill="#2E2E2E"/>
+<circle cx="15" cy="84" r="6" fill="#2E2E2E"/>
+<circle cx="15" cy="99" r="6" fill="#2E2E2E"/>
+<circle cx="30" cy="9" r="6" fill="#2E2E2E"/>
+<circle cx="30" cy="24" r="6" fill="#2E2E2E"/>
+<circle cx="30" cy="39" r="6" fill="#2E2E2E"/>
+<circle cx="30" cy="54" r="6" fill="#2E2E2E"/>
+<circle cx="30" cy="69" r="6" fill="#2E2E2E"/>
+<circle cx="30" cy="84" r="6" fill="#2E2E2E"/>
+<circle cx="30" cy="99" r="6" fill="#2E2E2E"/>
+<circle cx="45" cy="9" r="6" fill="#2E2E2E"/>
+<circle cx="45" cy="24" r="6" fill="#2E2E2E"/>
+<circle cx="45" cy="39" r="6" fill="#2E2E2E"/>
+<circle cx="45" cy="54" r="6" fill="#2E2E2E"/>
+<circle cx="45" cy="69" r="6" fill="#2E2E2E"/>
+<circle cx="45" cy="84" r="6" fill="#2E2E2E"/>
+<circle cx="45" cy="99" r="6" fill="#2E2E2E"/>
+<circle cx="60" cy="9" r="6" fill="#2E2E2E"/>
+<circle cx="60" cy="24" r="6" fill="#2E2E2E"/>
+<circle cx="60" cy="39" r="6" fill="#2E2E2E"/>
+<circle cx="60" cy="54" r="6" fill="#2E2E2E"/>
+<circle cx="60" cy="69" r="6" fill="#2E2E2E"/>
+<circle cx="60" cy="84" r="6" fill="#2E2E2E"/>
+<circle cx="60" cy="99" r="6" fill="#2E2E2E"/>
+<circle cx="75" cy="9" r="6" fill="#2E2E2E"/>
+<circle cx="75" cy="24" r="6" fill="#2E2E2E"/>
+<circle cx="75" cy="39" r="6" fill="#2E2E2E"/>
+<circle cx="75" cy="54" r="6" fill="#2E2E2E"/>
+<circle cx="75" cy="69" r="6" fill="#2E2E2E"/>
+<circle cx="75" cy="84" r="6" fill="#2E2E2E"/>
+<circle cx="75" cy="99" r="6" fill="#2E2E2E"/>
+<circle cx="90" cy="9" r="6" fill="#2E2E2E"/>
+<circle cx="90" cy="24" r="6" fill="#2E2E2E"/>
+<circle cx="90" cy="39" r="6" fill="#2E2E2E"/>
+<circle cx="90" cy="54" r="6" fill="#2E2E2E"/>
+<circle cx="90" cy="69" r="6" fill="#2E2E2E"/>
+<circle cx="90" cy="84" r="6" fill="#2E2E2E"/>
+<circle cx="90" cy="99" r="6" fill="#2E2E2E"/>
+</g>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="144.01" y="125.266">#2E2E2E</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="385.467" y="125.266">#919191</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="622.324" y="125.266">#C9C9C9&#10;</tspan><tspan x="619.119" y="143.266">(#2E2E2E)</tspan></text>
+</svg>

@@ -1,0 +1,35 @@
+<svg width="820" height="512" viewBox="0 0 820 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="818" height="510" rx="4" fill="white" stroke="#1B1B1B" stroke-width="2"/>
+<line x1="65.6111" y1="288.002" x2="698.801" y2="288.002" stroke="#C9C9C9" stroke-dasharray="3 3"/>
+<line x1="65.6112" y1="355.639" x2="698.802" y2="355.639" stroke="#C9C9C9" stroke-dasharray="3 3"/>
+<line x1="67.05" y1="220.367" x2="700.24" y2="220.367" stroke="#C9C9C9" stroke-dasharray="3 3"/>
+<line x1="67.0502" y1="152.73" x2="700.24" y2="152.73" stroke="#C9C9C9" stroke-dasharray="3 3"/>
+<line x1="67.05" y1="85.0938" x2="700.24" y2="85.0938" stroke="#C9C9C9" stroke-dasharray="3 3"/>
+<line x1="67.0503" y1="421.834" x2="700.241" y2="421.834" stroke="#2E2E2E"/>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="65.4238" y="449.477">2002</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="49.1019" y="427.43">0</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="33.3521" y="293.598">500</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="33.3518" y="361.232">250</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="33.3518" y="225.961">750</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="42.0064" y="158.324">1k</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="22.5879" y="89.7852">1.25k</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="146.998" y="449.51">2005</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="305.296" y="449.51">2010</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="463.594" y="449.51">2015</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="621.891" y="449.51">2020</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="670.819" y="449.51">2022</tspan></text>
+<text fill="#CD425B" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="707" y="130.08">ABCD</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="707" y="182.785">U.S. Average</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="21" y="64.7852">lb/MWh</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="51.0918" y="484.785">: This chart is for illustrative purposes only.</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="21" y="484.785">Note</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="21" y="38.6523">CO&#x2082; Emissions, ABCD vs U.S. Average</tspan></text>
+<line x1="67.5501" y1="425.213" x2="67.5501" y2="433.847" stroke="#2E2E2E"/>
+<line x1="162.529" y1="425.213" x2="162.529" y2="433.847" stroke="#2E2E2E"/>
+<line x1="320.826" y1="425.213" x2="320.826" y2="433.847" stroke="#2E2E2E"/>
+<line x1="479.124" y1="425.213" x2="479.124" y2="433.847" stroke="#2E2E2E"/>
+<line x1="637.422" y1="425.213" x2="637.422" y2="433.847" stroke="#2E2E2E"/>
+<line x1="699.301" y1="425.213" x2="699.301" y2="433.847" stroke="#2E2E2E"/>
+<path d="M67.7695 182.01L99.429 229.5L130.369 219.426L162.748 259.001L195.127 271.952L226.067 259.001L258.446 252.525L288.667 264.037L321.765 252.525L353.425 235.256L385.804 219.426H416.024L448.403 229.5L480.063 210.072L510.283 177.693L542.662 140.997L574.322 125.887L605.262 136.68H637.641L668.581 140.997L700.96 125.887" stroke="#CD425B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M700.96 180.573L669.301 201.439L638.361 218.708L605.982 231.66L573.603 218.708L542.663 231.66L510.284 238.135L480.063 291.381L446.965 289.222L415.305 297.137L382.926 271.234H352.706L320.327 261.16L288.667 280.588L258.447 312.967L226.068 349.663L194.408 364.773L163.468 353.98H131.089L100.149 349.663L67.7701 364.773" stroke="#2E2E2E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

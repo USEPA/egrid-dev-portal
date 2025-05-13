@@ -1,0 +1,46 @@
+<svg width="820" height="512" viewBox="0 0 820 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="818" height="510" rx="4" fill="white" stroke="#1B1B1B" stroke-width="2"/>
+<line x1="328.5" y1="106" x2="328.5" y2="447" stroke="#C9C9C9" stroke-dasharray="3 3"/>
+<line x1="455.5" y1="106" x2="455.5" y2="447" stroke="#C9C9C9" stroke-dasharray="3 3"/>
+<line x1="582.5" y1="106" x2="582.5" y2="447" stroke="#C9C9C9" stroke-dasharray="3 3"/>
+<line x1="709.5" y1="106" x2="709.5" y2="447" stroke="#C9C9C9" stroke-dasharray="3 3"/>
+<g clip-path="url(#clip0_1278_6205)">
+<rect x="476" y="118" width="16" height="275" transform="rotate(90 476 118)" fill="#2E2E2E"/>
+<rect x="402" y="148" width="16" height="201" transform="rotate(90 402 148)" fill="#2E2E2E"/>
+<rect x="662" y="178" width="16" height="461" transform="rotate(90 662 178)" fill="#2E2E2E"/>
+<rect x="355" y="208" width="16" height="154" transform="rotate(90 355 208)" fill="#2E2E2E"/>
+<rect x="374" y="238" width="16" height="173" transform="rotate(90 374 238)" fill="#2E2E2E"/>
+<rect x="444" y="268" width="16" height="243" transform="rotate(90 444 268)" fill="#2E2E2E"/>
+<rect x="389" y="298" width="16" height="188" transform="rotate(90 389 298)" fill="#2E2E2E"/>
+<rect x="345" y="328" width="16" height="144" transform="rotate(90 345 328)" fill="#8A984B"/>
+<rect x="402" y="358" width="16" height="201" transform="rotate(90 402 358)" fill="#2E2E2E"/>
+<rect x="325" y="388" width="16" height="124" transform="rotate(90 325 388)" fill="#2E2E2E"/>
+<rect x="402" y="418" width="16" height="201" transform="rotate(90 402 418)" fill="#2E2E2E"/>
+</g>
+<line x1="201.5" y1="106" x2="201.5" y2="447" stroke="#2E2E2E"/>
+<text transform="translate(198 86)" fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="0.125" y="12.7852">0</tspan></text>
+<text transform="translate(309 86)" fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="0.152344" y="12.7852">100M</tspan></text>
+<text transform="translate(437 86)" fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="0.152344" y="12.7852">200M</tspan></text>
+<text transform="translate(564 86)" fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="0.152344" y="12.7852">300M</tspan></text>
+<text transform="translate(689 86)" fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="0.152344" y="12.7852">400M</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="198" y="73.7852">Total Generation (MWh)</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="161.877" y="133.785">Coal</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="173.553" y="163.785">Oil</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="165.609" y="193.785">Gas</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="141.766" y="223.785">Nuclear</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="152.977" y="253.785">Hydro</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="135.531" y="283.785">Biomass</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="158.527" y="313.785">Wind</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="157.939" y="343.785">Solar</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="117.293" y="433.785">Geothermal</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="115.584" y="373.785">Other Fossil</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="94.5293" y="403.785">Other Unknown</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="124.092" y="482.785">: This chart is for illustrative purposes only.</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="94" y="482.785">Note</tspan></text>
+<text fill="#2E2E2E" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="94" y="42.6523">Total Generation, Solar vs. Other Fuel Types</tspan></text>
+<defs>
+<clipPath id="clip0_1278_6205">
+<rect width="461" height="316" fill="white" transform="translate(201 118)"/>
+</clipPath>
+</defs>
+</svg>

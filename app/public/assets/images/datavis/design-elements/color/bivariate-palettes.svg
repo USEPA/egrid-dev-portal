@@ -1,0 +1,56 @@
+<svg width="500" height="404" viewBox="0 0 500 404" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="112" height="15" fill="#1B3F09"/>
+<rect x="124" width="112" height="15" fill="#6C5F0A"/>
+<rect x="248" width="112" height="15" fill="#BA800C"/>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="0" y="36.477">#1B3F09</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="124" y="36.477">#6C5F0A</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="248" y="36.477">#BA800C</tspan></text>
+<rect y="50" width="112" height="15" fill="#1E5964"/>
+<rect x="124" y="50" width="112" height="15" fill="#7B8871"/>
+<rect x="248.5" y="50.5" width="111" height="14" fill="#D3B77E" stroke="#1B3F09"/>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="0" y="86.477">#1E5964</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="124" y="86.477">#7B8871</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="248" y="86.477">#D3B77E&#10;</tspan><tspan x="248" y="107.477">(border: #1B3F09)</tspan></text>
+<rect y="121" width="112" height="15" fill="#2273BB"/>
+<rect x="124.5" y="121.5" width="111" height="14" fill="#88B0D3" stroke="#1B3F09"/>
+<rect x="248.5" y="121.5" width="111" height="14" fill="#F0F0F0" stroke="#1B3F09"/>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="0" y="157.477">#2273BB</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="124" y="157.477">#88B0D3&#10;</tspan><tspan x="124" y="178.477">(border: #1B3F09)</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="248" y="157.477">#F0F0F0&#10;</tspan><tspan x="248" y="178.477">(border: #1B3F09)</tspan></text>
+<rect x="428" y="19" width="25" height="25" transform="rotate(-45 428 19)" fill="#1B3F09"/>
+<rect x="410" y="37" width="25" height="25" transform="rotate(-45 410 37)" fill="#1E5964"/>
+<rect x="392" y="55" width="25" height="25" transform="rotate(-45 392 55)" fill="#2273BB"/>
+<rect x="446" y="37" width="25" height="25" transform="rotate(-45 446 37)" fill="#6C5F0A"/>
+<rect x="410" y="73" width="25" height="25" transform="rotate(-45 410 73)" fill="#88B0D3"/>
+<rect x="446" y="73" width="25" height="25" transform="rotate(-45 446 73)" fill="#D3B77E"/>
+<rect x="428" y="91" width="25" height="25" transform="rotate(-45 428 91)" fill="#F0F0F0"/>
+<rect x="464" y="55" width="25" height="25" transform="rotate(-45 464 55)" fill="#BA800C"/>
+<rect x="428" y="55" width="25" height="25" transform="rotate(-45 428 55)" fill="#7B8871"/>
+<rect y="220" width="112" height="15" fill="#412E4E"/>
+<rect x="124" y="220" width="112" height="15" fill="#4E655A"/>
+<rect x="248" y="220" width="112" height="15" fill="#5A9965"/>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="0" y="256.477">#412E4E</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="124" y="256.477">#4E655A</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="248" y="256.477">#5A9965</tspan></text>
+<rect y="270" width="112" height="15" fill="#753B82"/>
+<rect x="124" y="270" width="112" height="15" fill="#8D8096"/>
+<rect x="248.5" y="270.5" width="111" height="14" fill="#A2C2A8" stroke="#412E4E"/>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="0" y="306.477">#753B82</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="124" y="306.477">#8D8096</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="248" y="306.477">#A2C2A8&#10;</tspan><tspan x="248" y="327.477">(border: #412E4E)</tspan></text>
+<rect y="341" width="112" height="15" fill="#A947B6"/>
+<rect x="124.5" y="341.5" width="111" height="14" fill="#CC9CD1" stroke="#412E4E"/>
+<rect x="248.5" y="341.5" width="111" height="14" fill="#F0F0F0" stroke="#412E4E"/>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="0" y="377.477">#A947B6</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="124" y="377.477">#CC9CD1&#10;</tspan><tspan x="124" y="398.477">(border: #412E4E)</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="248" y="377.477">#F0F0F0&#10;</tspan><tspan x="248" y="398.477">(border: #412E4E)</tspan></text>
+<rect x="428" y="239.322" width="25" height="25" transform="rotate(-45 428 239.322)" fill="#412E4E"/>
+<rect x="410" y="257.322" width="25" height="25" transform="rotate(-45 410 257.322)" fill="#753B82"/>
+<rect x="392" y="275.322" width="25" height="25" transform="rotate(-45 392 275.322)" fill="#A947B6"/>
+<rect x="446" y="257.322" width="25" height="25" transform="rotate(-45 446 257.322)" fill="#4E655A"/>
+<rect x="410" y="293.322" width="25" height="25" transform="rotate(-45 410 293.322)" fill="#CC9CD1"/>
+<rect x="446" y="293.322" width="25" height="25" transform="rotate(-45 446 293.322)" fill="#A2C2A8"/>
+<rect x="428" y="311.322" width="25" height="25" transform="rotate(-45 428 311.322)" fill="#F0F0F0"/>
+<rect x="464" y="275.322" width="25" height="25" transform="rotate(-45 464 275.322)" fill="#5A9965"/>
+<rect x="428" y="275.322" width="25" height="25" transform="rotate(-45 428 275.322)" fill="#8D8096"/>
+</svg>
