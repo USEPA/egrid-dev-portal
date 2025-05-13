@@ -55,12 +55,12 @@ export default tseslint.config({
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/USEPA/egrid-dev-portal.git
+git clone https://github.com/USEPA/power-sector-dev-portal.git
 ```
 
 2. Navigate to the app folder in the project directory:
 ```bash
-cd egrid-dev-portal/app
+cd power-sector-dev-portal/app
 ```
 
 3.Install dependencies:
@@ -74,7 +74,7 @@ Once the dependencies are installed, you can run the development server from the
 npm run dev
 ```
 
-This will usually start the development server at http://localhost:5173/egrid-dev-portal/
+This will usually start the development server at http://localhost:5173/power-sector-dev-portal/
 
 To build the project for deployment, use the following command:
 ``` bash
@@ -85,7 +85,7 @@ This will bundle the project for production then deploy from the `gh-pages` bran
 
 # Project Structure
 ```bash
-/egrid-dev-portal/app
+/power-sector-dev-portal/app
 │
 ├── public/
 │   ├── assets/              # Contains images, CSS, fonts, and JS files
@@ -135,7 +135,7 @@ Edit the fields you wish to change
 Add or remove sections as needed by adding or removing section blocks
 Save the file - changes will be reflected when the site is rebuilt
 
-- **title**: Found on top level pages, used in banners like the EGRID Dev Portal homepage
+- **title**: Found on top level pages, used in banners like the Power Sector Dev Portal homepage
 - **tagline**: Optional paragraph text included in some banners, like the design elements page
 - **introTitle**: Intro header found on most pages, like the color page. Typically called "Introduction"
 - **introContent**: Intro paragraphs found on most pages, like the color page. Can be more than one paragraph

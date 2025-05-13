@@ -45,6 +45,15 @@ $mobile-width: 63.99em;
 
 // Theme maps
 $themes: (
+  ggplot: (
+    primary: $green-cool-vivid-70v,
+    primary-vivid: $green-cool-vivid-70v,
+    primary-dark: $green-cool-vivid-70v,
+    primary-darker: $green-cool-vivid-80v,
+    vivid: $green-cool-vivid-40v,
+    vivid-50v: $green-cool-vivid-50v,
+    vivid-70v: $green-cool-vivid-70v
+  ),
   datavis: (
     primary: $primary,
     primary-vivid: $primary-vivid,
@@ -53,6 +62,15 @@ $themes: (
     primary-darker: $primary-darker,
     vivid-50v: $blue-warm-vivid-50v,
     vivid-70v: $blue-warm-vivid-70v
+  ),
+  api: (
+    primary: $red-70,
+    primary-vivid:$red-70,
+    primary-dark: $red-70,
+    primary-darker: $red-80,
+    vivid: $red-40,
+    vivid-50v: $red-50,
+    vivid-70v: $red-70,
   ),
   root: (
     primary: color.mix($primary, $base, 50%),

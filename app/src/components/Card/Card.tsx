@@ -12,15 +12,9 @@ const getClassNameFromTitle = (title?: string): string => {
   if (!title) return "";
 
   const allowedTitles = [
-    "eGRID Dev Portal",
-    "eGRID Production Code",
-    "Power Profiler",
-    "eGRID Explorer",
-    "Consumption-Based Rates",
-    "Monthly Data",
-    "EPA-EIA Crosswalk",
-    "EPA Hourly Fuel Type",
-    "PM<sub>2.5</sub>, NH<sub>3</sub>, and VOCs"
+    "CAPD Data Visualization Style Guide",
+    "Custom CAPD ggplot2 Theme",
+    "API",
   ];
 
   if (allowedTitles.includes(title)) {
@@ -46,16 +40,20 @@ const Card: React.FC<CardProps> = ({ title, content, link }) => {
       <h3>{title}</h3>
       {(content != "Coming soon" && title != "Content to Come" )? (
         <>
-          {content && <div className="content">{content}</div>}
-      {link && (
-        <a href={link} className="usa-button blue-button">
-          {typeof title === 'string' && title.includes('<sub>') ? (
-            <div dangerouslySetInnerHTML={{ __html: title }} />
-          ) : (
-            title
+          {content && <p className="content">{content}</p>}
+          {link && (
+            <Link to={link} className="usa-button blue-button">
+              {title === "Principles"
+                ? "Read the Principles"
+                : title === "Design Elements"
+                ? "Learn About Design Elements"
+                : title === "Charts"
+                ? "Choose a Chart"
+                : title === "Resourcess"
+                ? "Find Resourcess"
+                : `Go to ${title}`}
+            </Link>
           )}
-        </a>
-      )}
         </>
       ) : (
         <p><i>{content}</i></p>
