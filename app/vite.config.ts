@@ -16,7 +16,7 @@ export default defineConfig({
       frontmatter: true,
     }),
   ],
-  base: '/power-sector-dev-portal/',
+  base: '/egrid-dev-portal/',
   build: {
     rollupOptions: {
       input: {

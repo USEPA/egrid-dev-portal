@@ -14,8 +14,8 @@ uswds.paths.dist.fonts = './dist/fonts/sadjasdlk';
 gulp.task('adjust-font-paths', function () {
   return gulp.src('./src/assets/css/uswds.min.css') 
     // Adjust font paths
-    .pipe(replace(/url\(\s*['"]?\/fonts/g, "url('/power-sector-dev-portal/fonts"))
-    .pipe(replace(/url\(\s*['"]?\/img/g, "url('/power-sector-dev-portal/img"))
+    .pipe(replace(/url\(\s*['"]?\/fonts/g, "url('/egrid-dev-portal/fonts"))
+    .pipe(replace(/url\(\s*['"]?\/img/g, "url('/egrid-dev-portal/img"))
     .pipe(gulp.dest('./dist/css')); 
 });
 

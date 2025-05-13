@@ -8,30 +8,6 @@ const Breadcrumbs: React.FC = () => {
   const location = useLocation();
   const isMobileView = useIsMobile();
 
-  // Map of path segments to user-friendly titles
-  const breadcrumbTitles: { [key: string]: string } = {
-    datavis: "CAPD Data Visualization Style Guide",
-    "design-elements": "Design Elements",
-    principles: "Principles",
-    color: "Color",
-    symbology: "Symbology",
-    typography: "Typography",
-    layout: "Chart Layout",
-    charts: "Charts",
-    maps: "Maps",
-    "line-charts": "Line Charts",
-    "bar-charts": "Bar and Column Charts",
-    "area-charts": "Area Charts",
-    "resources": "Resources",
-    api: "API Documentation",
-    ggplot: "Custom ggplot2 Theme",
-    "using-the-theme": "Using the Theme",
-    "best-practices": "Best Practices",
-    highcharts: "Custom Highcharts Theme",
-    "hc-using-the-theme": "Using the Theme",
-    "hc-customization": "Customization",
-  };
-
   // Split the current path into segments
   const segments = location.pathname.split("/").filter(Boolean);
 
@@ -60,7 +36,7 @@ const Breadcrumbs: React.FC = () => {
         <ol className="usa-breadcrumb__list">
           <li className="usa-breadcrumb__list-item">
             <Link to="/" className="usa-breadcrumb__link">
-              Power Sector Dev Portal
+              eGRID Dev Portal
             </Link>
           </li>
           {isMobileView ? (
