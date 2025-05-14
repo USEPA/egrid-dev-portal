@@ -135,7 +135,7 @@ Edit the fields you wish to change
 Add or remove sections as needed by adding or removing section blocks
 Save the file - changes will be reflected when the site is rebuilt
 
-- **title**: Found on top level pages, used in banners like the Power Sector Dev Portal homepage
+- **title**: Found on top level pages, used in banners like the eGRID Dev Portal homepage
 - **tagline**: Optional paragraph text included in some banners, like the design elements page
 - **introTitle**: Intro header found on most pages, like the color page. Typically called "Introduction"
 - **introContent**: Intro paragraphs found on most pages, like the color page. Can be more than one paragraph
