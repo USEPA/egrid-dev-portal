@@ -31,34 +31,29 @@ const EGRIDDevPortal: React.FC = () => {
                 {section.sectionContent && <p className="section-content">{section.sectionContent}</p>}
               </div>
             )}
-            <div className="grid grid-col--two row-gap-3">
-              {section.cards.map((card, cardIdx) => (
-                <Card
-                  key={cardIdx}
-                  title={card.title.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title}
-                  content={<div dangerouslySetInnerHTML={{ __html: card.content }} />}
-                  link={card.link || ""}
-                  link2={card.link2 || ""}
-                />
-              ))}
-            </div>
-            {section.sectionTitle2 && (
-              <div>
-                <h2 className="section-title">{section.sectionTitle2}</h2>
-                {section.sectionContent2 && <p className="section-content">{section.sectionContent2}</p>}
-              </div>
-            )}
-            <div className="grid grid-col--two row-gap-3">
-              {section.cards2.map((card, cardIdx) => (
-                <Card
-                  key={cardIdx}
-                  title={card.title.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title}
-                  content={<div dangerouslySetInnerHTML={{ __html: card.content }} />}
-                  link={card.link || ""}
-                  link2={card.link2 || ""}
-                />
-              ))}
-            </div>
+  <div className="grid grid-col--two row-gap-3">
+  {section.cards2 && section.cards2.length > 0 ? (
+    section.cards2.map((card, cardIdx) => (
+      <Card
+        key={cardIdx}
+        title={card.title?.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title || ''}
+        content={<div dangerouslySetInnerHTML={{ __html: card.content || ''}} />}
+        link={card.link || ""}
+        link2={card.link2 || ""}
+      />
+    ))
+  ) : section.cards && section.cards.length > 0 ? (
+    section.cards.map((card, cardIdx) => (
+      <Card
+        key={cardIdx}
+        title={card.title?.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title || ''}
+        content={<div dangerouslySetInnerHTML={{ __html: card.content || ''}} />}
+        link={card.link || ""}
+        link2={card.link2 || ""}
+      />
+    ))
+  ) : null}
+</div>
           </div>
         ))}
       </div>
