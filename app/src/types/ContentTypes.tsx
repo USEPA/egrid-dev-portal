@@ -2,6 +2,7 @@ export interface Card {
   title?: string;
   content?: string;
   link?: string;
+  link2?: string;
   image: string;
   alt?: string; 
   imagemb?: string;
@@ -26,16 +27,21 @@ export interface Accordion {
   imagemb?: string;
   level?: number;
   cards?: Card[]; 
+  cards2?: Card[]; 
 }
 
 export interface Section {
-  title?: string;
+  sectionTitle?: string;
+  sectionContent?: string;
+  sectionTitle2?: string,
+  sectionContent2?: string;
+  cards: Card[]; // Added a default empty array
+  cards2: Card[]; // Added a default empty array
   content?: string;
   image?: string;
   alt?: string;
   imagemb?: string;
   level?: number;
-  cards?: Card[]; 
   downloads?: Download[];
   code?: CodeSnippet[];
 }

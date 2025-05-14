@@ -3,33 +3,22 @@ import "./Card.scss";
 import { Link, useLocation } from "react-router-dom";
 
 interface CardProps {
-  title?: string;
-  content?: string;
+  title: React.ReactNode; // Update the type to React.ReactNode
+  content: React.ReactNode;
   link?: string;
+  link2?: string;
 }
 
-const getClassNameFromTitle = (title?: string): string => {
-  if (!title) return "";
-
-  const allowedTitles = [
-    "CAPD Data Visualization Style Guide",
-    "Custom CAPD ggplot2 Theme",
-    "API",
-  ];
-
-  if (allowedTitles.includes(title)) {
-    return title
-      .split(" ")
-      .map((word, index) =>
-        index === 0
-          ? word.toLowerCase()
-          : word.charAt(0).toUpperCase() + word.slice(1)
-      )
-      .join("");
+function getClassNameFromTitle(title: React.ReactNode): string {
+  if (typeof title === 'string') {
+    return title.toLowerCase().replace(/\s/g, '-');
+  } else if (React.isValidElement(title)) {
+    // Handle the case where title is a React element
+    return 'custom-title';
+  } else {
+    return '';
   }
-
-  return "";
-};
+}
 
 const Card: React.FC<CardProps> = ({ title, content, link }) => {
   const { pathname } = useLocation();
