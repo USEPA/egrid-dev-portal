@@ -32,11 +32,11 @@ const EGRIDDevPortal: React.FC = () => {
               </div>
             )}
             <div className="grid grid-col--two row-gap-3">
-              {section.cards && section.cards.length > 0 && section.cards.map((card, cardIdx) => (
+              {section.cards.map((card, cardIdx) => (
                 <Card
                   key={cardIdx}
-                  title={card.title?.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title || ''}
-                  content={<div dangerouslySetInnerHTML={{ __html: card.content || ''}} />}
+                  title={card.title.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title}
+                  content={<div dangerouslySetInnerHTML={{ __html: card.content }} />}
                   link={card.link || ""}
                   link2={card.link2 || ""}
                 />
@@ -49,11 +49,11 @@ const EGRIDDevPortal: React.FC = () => {
               </div>
             )}
             <div className="grid grid-col--two row-gap-3">
-              {section.cards2 && section.cards2.length > 0 && section.cards2.map((card, cardIdx) => (
+              {section.cards2.map((card, cardIdx) => (
                 <Card
                   key={cardIdx}
-                  title={card.title?.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title || ''}
-                  content={<div dangerouslySetInnerHTML={{ __html: card.content || ''}} />}
+                  title={card.title.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title}
+                  content={<div dangerouslySetInnerHTML={{ __html: card.content }} />}
                   link={card.link || ""}
                   link2={card.link2 || ""}
                 />
