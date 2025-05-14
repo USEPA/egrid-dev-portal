@@ -55,12 +55,12 @@ export default tseslint.config({
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/USEPA/power-sector-dev-portal.git
+git clone https://github.com/USEPA/egrid-dev-portal.git
 ```
 
 2. Navigate to the app folder in the project directory:
 ```bash
-cd power-sector-dev-portal/app
+cd egrid-dev-portal/app
 ```
 
 3.Install dependencies:
