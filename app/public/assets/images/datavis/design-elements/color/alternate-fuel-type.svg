@@ -1,8 +1,0 @@
-<svg width="436" height="91" viewBox="0 0 436 91" fill="none" xmlns="http://www.w3.org/2000/svg">
-<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="0" y="13.266">Solar</tspan></text>
-<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="138" y="13.266">Wind</tspan></text>
-<path d="M197 27L139 27L139 40L197 40L197 27Z" fill="#5ABF95" stroke="#2E8367" stroke-width="2"/>
-<rect x="-1" y="1" width="58" height="13" transform="matrix(-1 6.56737e-08 1.16374e-07 1 58 26)" fill="#FFBE2E" stroke="#947100" stroke-width="2"/>
-<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="0" y="64.477">#FFBE2E&#10;</tspan><tspan x="0" y="85.477">(border: #947100)</tspan></text>
-<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Source Sans Pro" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="138" y="64.477">#5ABF95&#10;</tspan><tspan x="138" y="85.477">(border: #2E8367)</tspan></text>
-</svg>

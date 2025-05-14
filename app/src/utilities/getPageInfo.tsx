@@ -19,7 +19,7 @@ export const getPageInfo = (location: Location) => {
     return { route: "/api", title: "API Documentation", isApiRoute: true };
   }
 
-  return { route: "/", title: "Power Sector Dev Portal", isHomeRoute: true };
+  return { route: "/", title: "eGRID Dev Portal", isHomeRoute: true };
 };
 
 // Helper function to determine if the current path matches a given link
@@ -31,13 +31,7 @@ export const isExactlyPath = (location: Location, path: string) =>
 
 export const getPageLevelforBreadcrumbs = (location: Location) => {
   if (
-    isExactlyPath(location, "/datavis") ||
-    isExactlyPath(location, "/datavis/charts") ||
-    isExactlyPath(location, "/datavis/principles") ||
-    isExactlyPath(location, "/datavis/design-elements") ||
-    isExactlyPath(location, "/datavis/resources") ||
-    isExactlyPath(location, "/ggplot") ||
-    isExactlyPath(location, "/highcharts")
+    isExactlyPath(location, "/datavis")
   ) {
     return { isRouteWithBanner: true };
   }
