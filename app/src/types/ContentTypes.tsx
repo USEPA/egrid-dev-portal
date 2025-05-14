@@ -27,6 +27,7 @@ export interface Accordion {
   imagemb?: string;
   level?: number;
   cards?: Card[]; 
+  cards2?: Card[]; 
 }
 
 export interface Section {
@@ -35,6 +36,7 @@ export interface Section {
   sectionTitle2?: string,
   sectionContent2?: string;
   cards: Card[]; // Added a default empty array
+  cards2: Card[]; // Added a default empty array
   content?: string;
   image?: string;
   alt?: string;
