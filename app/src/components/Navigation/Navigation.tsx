@@ -69,7 +69,7 @@ const Navigation: React.FC = () => {
           <div className="usa-nav-container">
             {!isMobileView && !isHomeRoute && (
               <Link to="/" className="home-back-link">
-                Power Sector Dev Portal
+                eGRID Dev Portal
               </Link>
             )}
             <div className="usa-navbar">
@@ -97,47 +97,6 @@ const Navigation: React.FC = () => {
                     <CloseIcon />
                   </button>
                 </div>
-              )}
-
-              {isHomeRoute && (
-                <ul className="usa-nav__primary usa-accordion">
-                  <li className="usa-nav__primary-item">
-                    <Link
-                      to="/datavis"
-                      className={
-                        isCurrentPath(location, "/datavis")
-                          ? "usa-current"
-                          : ""
-                      }
-                    >
-                      <span>CAPD Data Visualization Style Guide</span>
-                    </Link>
-                  </li>
-                  <li className="usa-nav__primary-item">
-                    <Link
-                      to="/ggplot"
-                      className={
-                        isCurrentPath(location, "/ggplot")
-                          ? "usa-current"
-                          : ""
-                      }
-                    >
-                      <span>Custom CAPD ggplot2 Theme</span>
-                    </Link>
-                  </li>
-                  <li className="usa-nav__primary-item">
-                    <Link
-                      to="/highcharts"
-                      className={
-                        isCurrentPath(location, "/highcharts")
-                          ? "usa-current"
-                          : ""
-                      }
-                    >
-                      <span>Custom CAPD Highcharts Theme</span>
-                    </Link>
-                  </li>
-                </ul>
               )}
 
               {isDatavisRoute && (
