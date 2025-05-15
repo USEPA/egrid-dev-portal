@@ -7,6 +7,8 @@ interface CardProps {
   content: React.ReactNode;
   link?: string;
   link2?: string;
+  linkText?: string;
+  link2Text?: string;
 }
 
 function getClassNameFromTitle(title: React.ReactNode): string {
@@ -20,7 +22,7 @@ function getClassNameFromTitle(title: React.ReactNode): string {
   }
 }
 
-const Card: React.FC<CardProps> = ({ title, content, link, link2 }) => {
+const Card: React.FC<CardProps> = ({ title, content, link, link2, linkText, link2Text }) => {
   const { pathname } = useLocation();
   const className = pathname === "/" ? getClassNameFromTitle(title) : "";
 
@@ -32,16 +34,12 @@ const Card: React.FC<CardProps> = ({ title, content, link, link2 }) => {
           {content && <p className="content">{content}</p>}
           {link && (
             <Link to={link} className="usa-button blue-button">
-              {typeof title === 'string'
-                ? title
-                : <>{title}</>}
+              {linkText || (typeof title === 'string' ? title : 'Go to Link')}
             </Link>
           )}
           {link2 && (
             <Link to={link2} className="usa-button blue-button">
-              {typeof title === 'string'
-                ? title
-                : <>{title}</>}
+              {link2Text || (typeof title === 'string' ? title : 'Go to Link 2')}
             </Link>
           )}
         </>

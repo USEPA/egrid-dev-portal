@@ -3,6 +3,8 @@ export interface Card {
   content?: string;
   link?: string;
   link2?: string;
+  linkText?: string;
+  link2Text?: string;
   image: string;
   alt?: string; 
   imagemb?: string;
@@ -27,7 +29,7 @@ export interface Accordion {
   imagemb?: string;
   level?: number;
   cards?: Card[]; 
-  cards2?: Card[]; // Use the Card interface here
+  cards2?: Card[];
 }
 
 export interface Section {
@@ -35,8 +37,8 @@ export interface Section {
   sectionContent?: string;
   sectionTitle2?: string,
   sectionContent2?: string;
-  cards: Card[]; // Added a default empty array
-  cards2: Card[]; // Use the Card interface here
+  cards: Card[];
+  cards2: Card[];
   content?: string;
   image?: string;
   alt?: string;

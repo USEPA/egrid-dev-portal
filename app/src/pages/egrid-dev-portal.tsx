@@ -36,9 +36,11 @@ const EGRIDDevPortal: React.FC = () => {
                 <Card
                   key={cardIdx}
                   title={card.title?.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title || ''}
-                  content={<div dangerouslySetInnerHTML={{ __html: card.content }} />}
+                  content={card.content ? <div dangerouslySetInnerHTML={{ __html: card.content }} /> : ''}
                   link={card.link || ""}
                   link2={card.link2 || ""}
+                  linkText={card.linkText || ""}
+                  link2Text={card.link2Text || ""}
                 />
               ))}
             </div>
@@ -53,9 +55,11 @@ const EGRIDDevPortal: React.FC = () => {
                 <Card
                   key={cardIdx}
                   title={card.title?.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title || ''}
-                  content={<div dangerouslySetInnerHTML={{ __html: card.content }} />}
+                  content={card.content ? <div dangerouslySetInnerHTML={{ __html: card.content }} /> : ''}
                   link={card.link || ""}
                   link2={card.link2 || ""}
+                  linkText={card.linkText || ""}
+                  link2Text={card.link2Text || ""}
                 />
               ))}
             </div>
