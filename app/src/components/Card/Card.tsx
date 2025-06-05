@@ -18,7 +18,7 @@ const Card: React.FC<CardProps> = ({
   link2,
   linkText,
   link2Text,
-  disabled = false,
+  disabled,
 }) => {
   return (
     <div className="card">
