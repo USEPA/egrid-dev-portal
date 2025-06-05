@@ -11,14 +11,17 @@ sections:
         content: "GRID methodology available for review and collaboration in the R programming language."
         link: "https://github.com/usepa/egrid"
         linkText: "Go to eGRID Production Code"
+        disabled: false
       - title: "Power Profiler"
         content: "Power Profiler code available in the R programming language."
         link: "https://github.com/USEPA/power-profiler"
         linkText: "Go to Power Profiler"
+        disabled: false
       - title: "eGRID Explorer"
         content: "Repository where eGRID Explorer code is available in the R programming language."
         link: "https://github.com/USEPA/egrid-explorer"
         linkText: "Go to eGRID Explorer"
+        disabled: false
     sectionTitle2: "eGRID Experiments"
     sectionContent2: "Repositories for products in development"
     cards2:
@@ -26,22 +29,24 @@ sections:
         content: "Methodology for consumption-based rates is available in Python"
         link: "https://github.com/USEPA/egrid-consumption-rates"
         linkText: "Go to Consumption-Based Rates"
+        disabled: false
       - title: "Monthly Data"
         content: "R code is used to produce the monthly data for the annual eGRID release."
         link: "/"
         linkText: "Coming Soon"
-        disabled={true}
+        disabled: true
       - title: "EPA-EIA Crosswalk"
         content: "R code used to match EPA and EIA plants and units."
         link: "https://github.com/USEPA/camd-eia-crosswalk"
         linkText: "Go to Crosswalk"
+        disabled: false
       - title: "EPA Hourly Fuel Type"
         content: "R code used to estimate the hourly fuel type for units reporting data to EPA."
         link: "/"
         linkText: "Coming Soon"
-        disabled={true}
+        disabled: true
       - title: "PM<sub>2.5</sub>, NH<sub>3</sub>, and VOCs"
         content: "Repository of R code used to determine PM<sub>2.5</sub>, NH<sub>3</sub>, and VOC emissions and emission rates."
         link: "/"
         linkText: "Coming Soon"
-        disabled={true}
+        disabled: true
