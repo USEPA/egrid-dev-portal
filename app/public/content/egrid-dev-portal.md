@@ -30,6 +30,7 @@ sections:
         content: "R code is used to produce the monthly data for the annual eGRID release."
         link: "/"
         linkText: "Coming Soon"
+        disabled={true}
       - title: "EPA-EIA Crosswalk"
         content: "R code used to match EPA and EIA plants and units."
         link: "https://github.com/USEPA/camd-eia-crosswalk"
@@ -38,7 +39,9 @@ sections:
         content: "R code used to estimate the hourly fuel type for units reporting data to EPA."
         link: "/"
         linkText: "Coming Soon"
+        disabled={true}
       - title: "PM<sub>2.5</sub>, NH<sub>3</sub>, and VOCs"
         content: "Repository of R code used to determine PM<sub>2.5</sub>, NH<sub>3</sub>, and VOC emissions and emission rates."
         link: "/"
         linkText: "Coming Soon"
+        disabled={true}
