@@ -32,7 +32,7 @@ sections:
         disabled: false
       - title: "Monthly Data"
         content: "R code is used to produce the monthly data for the annual eGRID release."
-        link: "/"
+        link: "/egrid-dev-portal/"
         linkText: "Coming Soon"
         disabled: true
       - title: "EPA-EIA Crosswalk"
@@ -42,11 +42,11 @@ sections:
         disabled: false
       - title: "EPA Hourly Fuel Type"
         content: "R code used to estimate the hourly fuel type for units reporting data to EPA."
-        link: "/"
+        link: "/egrid-dev-portal/"
         linkText: "Coming Soon"
         disabled: true
       - title: "PM<sub>2.5</sub>, NH<sub>3</sub>, and VOCs"
         content: "Repository of R code used to determine PM<sub>2.5</sub>, NH<sub>3</sub>, and VOC emissions and emission rates."
-        link: "/"
+        link: "/egrid-dev-portal/"
         linkText: "Coming Soon"
         disabled: true
