@@ -61,7 +61,7 @@ const EGRIDDevPortal: React.FC = () => {
                   link2={card.link2 || ""}
                   linkText={card.linkText || ""}
                   link2Text={card.link2Text || ""}
-                  disabled={card.disabled || ""}
+                  disabled={card.disabled || false}
                 />
               ))}
             </div>

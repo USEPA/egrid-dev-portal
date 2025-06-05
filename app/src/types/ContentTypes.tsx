@@ -9,6 +9,7 @@ export interface Card {
   alt?: string; 
   imagemb?: string;
   type: 'do' | 'do not'; 
+  disabled?: boolean;
 }
 
 export interface Download {
