@@ -9,6 +9,7 @@ interface CardProps {
   link2?: string;
   linkText?: string;
   link2Text?: string;
+  disabled?: boolean;
 }
 
 function getClassNameFromTitle(title: React.ReactNode): string {
@@ -22,30 +23,41 @@ function getClassNameFromTitle(title: React.ReactNode): string {
   }
 }
 
-const Card: React.FC<CardProps> = ({ title, content, link, link2, linkText, link2Text }) => {
-  const { pathname } = useLocation();
-  const className = pathname === "/" ? getClassNameFromTitle(title) : "";
-
+const Card: React.FC<CardProps> = ({
+  title,
+  content,
+  link,
+  link2,
+  linkText,
+  link2Text,
+  disabled = false,
+}) => {
   return (
-    <div className={`card ${className}`}>
-      <h3>{title}</h3>
-      {(content !== "Coming soon" && title !== "Content to Come") ? (
-        <>
-          {content && <p className="content">{content}</p>}
+    <div className="card">
+      <div className="card-body">
+        <h3 className="card-title">{title}</h3>
+        <p className="card-text">{content}</p>
+        <div className="card-actions">
           {link && (
-            <Link to={link} className="usa-button blue-button">
-              {linkText || (typeof title === 'string' ? title : 'Go to Link')}
-            </Link>
+            <a
+              href={link}
+              className={`usa-button ${disabled ? 'usa-button--disabled' : ''}`}
+              aria-disabled={disabled}
+            >
+              {linkText}
+            </a>
           )}
           {link2 && (
-            <Link to={link2} className="usa-button blue-button">
-              {link2Text || (typeof title === 'string' ? title : 'Go to Link 2')}
-            </Link>
+            <a
+              href={link2}
+              className={`usa-button ${disabled ? 'usa-button--disabled' : ''}`}
+              aria-disabled={disabled}
+            >
+              {link2Text}
+            </a>
           )}
-        </>
-      ) : (
-        <p><i>{content}</i></p>
-      )}
+        </div>
+      </div>
     </div>
   );
 };
