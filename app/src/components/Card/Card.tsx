@@ -11,17 +11,6 @@ interface CardProps {
   disabled?: boolean;
 }
 
-function getClassNameFromTitle(title: React.ReactNode): string {
-  if (typeof title === 'string') {
-    return title.toLowerCase().replace(/\s/g, '-');
-  } else if (React.isValidElement(title)) {
-    // Handle the case where title is a React element
-    return 'custom-title';
-  } else {
-    return '';
-  }
-}
-
 const Card: React.FC<CardProps> = ({
   title,
   content,
