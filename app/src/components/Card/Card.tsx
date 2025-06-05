@@ -1,6 +1,5 @@
 import React from "react";
 import "./Card.scss";
-import { Link, useLocation } from "react-router-dom";
 
 interface CardProps {
   title: React.ReactNode;
