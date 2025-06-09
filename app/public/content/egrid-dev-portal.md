@@ -34,6 +34,7 @@ sections:
         content: "R code used to match EPA and EIA plants and units."
         link: "https://github.com/USEPA/camd-eia-crosswalk"
         linkText: "Go to Crosswalk"
+        disabled: false
       - title: "Consumption-Based Rates"
         content: "Methodology for consumption-based rates is available in Python."
         link: "#"
@@ -44,7 +45,6 @@ sections:
         link: "#"
         linkText: "Coming Soon"
         disabled: true
-        disabled: false
       - title: "EPA Hourly Fuel Type"
         content: "R code used to estimate the hourly fuel type for units reporting data to EPA."
         link: "#"
