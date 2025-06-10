@@ -50,6 +50,9 @@ sections:
         link: "#"
         linkText: "Coming Soon"
         disabled: true
+    sectionTitle3: "eGRID API"
+    sectionContent3: "Repositories for API"
+    cards3:
       - title: "eGRID API"
         content: "Repository to produce the eGRID API."
         link: "#"
