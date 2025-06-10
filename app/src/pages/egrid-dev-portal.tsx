@@ -65,6 +65,26 @@ const EGRIDDevPortal: React.FC = () => {
                 />
               ))}
             </div>
+            {section.sectionTitle3 && (
+              <div>
+                <h2 className="section-title">{section.sectionTitle3}</h2>
+                {section.sectionContent3 && <p className="section-content">{section.sectionContent3}</p>}
+              </div>
+            )}
+            <div className="grid grid-col--two row-gap-3">
+              {section.cards3.map((card, cardIdx) => (
+                <Card
+                  key={cardIdx}
+                  title={card.title?.includes('<sub>') ? <div dangerouslySetInnerHTML={{ __html: card.title }} /> : card.title || ''}
+                  content={card.content ? <div dangerouslySetInnerHTML={{ __html: card.content }} /> : ''}
+                  link={card.link || ""}
+                  link2={card.link3 || ""}
+                  linkText={card.linkText || ""}
+                  link2Text={card.link3Text || ""}
+                  disabled={card.disabled || false}
+                />
+              ))}
+            </div>
           </div>
         ))}
       </div>

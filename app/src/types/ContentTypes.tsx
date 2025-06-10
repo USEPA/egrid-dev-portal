@@ -38,8 +38,11 @@ export interface Section {
   sectionContent?: string;
   sectionTitle2?: string,
   sectionContent2?: string;
+  sectionTitle3?: string,
+  sectionContent3?: string;
   cards: Card[];
   cards2: Card[];
+  cards3: Card[];
   content?: string;
   image?: string;
   alt?: string;
